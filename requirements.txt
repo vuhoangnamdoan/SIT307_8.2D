@@ -1,0 +1,6 @@
+streamlit
+numpy
+pandas
+plotly
+scikit-learn # Assuming best_xgb_model.pkl uses sklearn components
+xgboost # For the xgb_model
